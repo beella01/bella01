@@ -1,10 +1,9 @@
 # bella01😮‍💨
 
 Meu nome é beella
-
-Estou estudando no [Alura](htpps://www.alura.com.br)
-Estou me desenvolvendo nessa parada paia chamada JavaScript
-Utilizo esse baguio para minha organização e compartilhamento dos meus projetos pika desenvolvidas
+- Estou estudando no [Alura](htpps://www.alura.com.br)
+- Estou me desenvolvendo nessa parada paia chamada JavaScript
+- Utilizo esse baguio para minha organização e compartilhamento dos meus projetos pika desenvolvidas
 
 ### Você pode entrar em contato comigo 📬
 
